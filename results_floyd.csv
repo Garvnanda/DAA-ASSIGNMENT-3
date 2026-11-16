@@ -1,0 +1,7 @@
+algorithm,case,n,run1_ms,run2_ms,run3_ms,avg_ms
+Floyd-Warshall,dense random graph,50,0.151910,0.154000,0.147718,0.151209
+Floyd-Warshall,dense random graph,100,0.971346,0.943926,0.966558,0.960610
+Floyd-Warshall,dense random graph,200,6.583750,6.721500,6.596875,6.634042
+Floyd-Warshall,dense random graph,400,43.850500,45.831000,54.515500,48.065667
+Floyd-Warshall,dense random graph,800,308.378000,307.689000,298.298000,304.788333
+Floyd-Warshall,dense random graph,1600,2857.395000,3087.605000,2846.062000,2930.354000
