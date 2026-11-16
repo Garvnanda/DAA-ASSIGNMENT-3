@@ -1,4 +1,4 @@
-# DAA Assignment: Implementation and Experimental Analysis of Algorithms
+# DAA Assignment 3: Implementation and Experimental Analysis of Algorithms
 
 **Course:** Design and Analysis of Algorithms (CIC-311), MAIT Delhi  
 **Student:** Garv Nanda (03614802724), Section 5C2
